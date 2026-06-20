@@ -54,7 +54,7 @@ A secure user authentication application built using **Streamlit** and **Supabas
 
 ## Live Demo
 
-[Live Demo Link Here]
+https://user-session.streamlit.app/
 
 ## Security Features
 
